@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Genre: {{ genre_name }}</h1>
+<p><a href="{{ url_for('index') }}" class="back-to-home">Back to Home</a></p>
+
+<div class="container">
+  <div class="row">
+    {% if tracks %}
+      {% for track in tracks %}
+        <div class="col-md-4">
+          <a href="{{ url_for('track_detail', billboard_id=track.billboard_id) }}" class="card-link">
+            <div class="card mb-4 shadow-sm">
+              <div class="card-body">
+                <h5 class="card-title"><em><strong>{{ track.name }}</strong></em></h5>
+                <p class="artist-name">{{ track.artist }}</p>  
+                <p class="billboard-ranking">Rank: #{{ track.billboard_id }}</p>  
+              </div>
+            </div>
+          </a>
+        </div>
+      {% endfor %}
+    {% else %}
+      <p>No tracks available for this genre.</p>
+    {% endif %}
+  </div>
+</div>
+
+{% endblock %}

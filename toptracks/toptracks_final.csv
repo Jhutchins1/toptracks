@@ -1,0 +1,101 @@
+billboard_id,name,artist,featuring,album_name,release_date,streaming_revenue_spotify,alltime_spotify_streams,genre
+1,Last Night,Morgan Wallen,n/a,One Thing At A Time ,2023-03-03,2495027.835,831675945,Country
+2,Flowers,Miley Cyrus,n/a,Endless Summer Vacation,2023-08-18,5716897.503,1905632501,Pop
+3,Kill Bill,SZA,n/a,SOS,2022-12-09,5271330.738,1757110246,RnB
+4,Anti-Hero,Taylor Swift,n/a,Midnights,2022-10-21,4480251.99,1493417330,Pop
+5,Creepin',Metro Boomin,The Weeknd & 21 Savage,,2022-12-02,3818030.466,1272676822,RnB
+6,Calm Down,Rema,Selena Gomez,Single,2022-08-25,3983410.866,1327803622,Afrobeats
+7,Die For You,The Weeknd,Ariana Grande,Single,2023-02-27,2551698.084,850566028,RnB
+8,Fast Car,Luke Combs,n/a,Gettin' Old,2023-03-24,1357868.541,452622847,Country
+9,Snooze,SZA,n/a,SOS,2022-12-09,2678312.589,892770863,RnB
+10,I'm Good (Blue),David Guetta,Bebe Rexha,Single,2022-08-16,4650393.468,1550131156,Pop
+11,Unholy,Sam Smith,Kim Petras,Single,2022-09-22,4517862.831,1505954277,Pop
+12,You Proof,Morgan Wallen,n/a,One Thing At A Time,2023-03-03,1746001.884,582000628,Country
+13,Something In The Orange,Zach Bryan,n/a,Single,2022-04-22,2412498.96,804166320,Country
+14,Rich Flex,Drake,21 Savage,Her Loss,2022-11-04,2353802.886,784600962,Rap
+15,As It Was,Harry Styles,n/a,Harry's House,2022-05-20,9409735.641,3136578547,Pop
+16,Rock And A Hard Place,Bailey Zimmerman,n/a,Religiously. The Album.,2023-01-11,1152655.233,384218411,Country
+17,Under The Influence,Chris Brown,n/a,Indigo (Extended),2019-10-04,3560571.483,1186857161,RnB
+18,Cruel Summer,Taylor Swift,n/a,Lover,2019-08-23,5947417.758,1982472586,Country
+19,Thinkin' Bout Me,Morgan Wallen,n/a,One Thing At A Time,2023-03-03,1015178.103,338392701,Country
+20,"Boy's A Liar, Pt. 2",PinkPantheress,Ice Spice,Single,2023-02-03,2466590.685,822196895,Rap
+21,Favorite Song,Toosii,n/a,Single,2023-02-17,523955.19,174651730,Rap
+22,Thought You Should Know,Morgan Wallen,n/a,One Thing At A Time,2023-03-03,937796.88,312598960,Country
+23,Thank God,Kane Brown,Katelyn Brown,Different Man,2022-09-09,440534.967,146844989,Country
+24,Sure Thing,Miguel,n/a,All I Want Is You,2010-11-26,3776740.902,1258913634,Pop
+25,All My Life,Lil Durk,J. Cole,Single,2023-05-12,944393.907,314797969,Rap
+26,Ella Baila Sola,Eslabon Armado,Peso Pluma,Single,2023-03-16,3479467.269,1159822423,Rap
+27,Karma,Taylor Swift,Ice Spice,Midnights,2022-10-21,2201710.839,733903613,Pop
+28,Just Wanna Rock,Lil Uzi Vert,n/a,Single,2022-10-17,1917986.679,639328893,Rap
+29,Cuff It,Beyonce,n/a,RENAISSANCE,2022-07-29,2313967.095,771322365,RnB
+30,Vampire,Olivia Rodrigo,n/a,GUTS,2023-09-08,2695915.986,898638662,Indie
+31,Fukumean,Gunna,n/a,a Gift & a Curse,2023-06-16,2072375.97,690791990,Rap
+32,Lavender Haze,Taylor Swift,n/a,Midnights,2022-10-21,2051446.536,683815512,Pop
+33,Players,Coi Leray,n/a,Single,2022-11-30,1349220.369,449740123,Rap
+34,Need A Favor,Jelly Roll,n/a,Whitsitt Chapel,2023-06-02,431712.516,143904172,Country
+35,Dance The Night,Dua Lipa,n/a,Barbie The Album,2023-07-21,235655.76,785551920,Pop
+36,Love You Anyway,Luke Combs,n/a,Gettin' Old,2023-03-24,452386.584,150795528,Country
+37,One Thing At A Time,Morgan Wallen,n/a,One Thing At A Time,2023-03-03,694261.047,231420349,Country
+38,Superhero ,Metro Boomin,Future & Chris Brown,HEROES & VILLAINS,2022-12-02,1969879.185,656626395,Rap
+39,Bad Habit,Steve Lacy,n/a,Single,2022-06-29,3130633.476,1043544492,Indie
+40,La Bebe (Remix),Yng Lvcas,Peso Pluma,Single,2023-03-17,1660902.201,553634067,Reggaeton
+41,Golden Hour,JVKE,n/a,this is what falling in love feels like,2022-10-03,3216839.07,1072279690,Indie
+42,Religiously,Bailey Zimmerman,n/a,Religiously. The Album. ,2023-01-11,602243.745,200747915,Country
+43,Spin Bout You,Drake,21 Savage,Her Loss,2022-11-04,1007349.636,335783212,Rap
+44,Cupid (Twin Version),Fifty Fifty,n/a,The Beginning,2023-09-22,2481650.616,827216872,K-Pop
+45,Search & Rescue,Drake,n/a,Single,2023-04-07,964164.717,321388239,Rap
+46,Barbie World,Nicki Minaj,Ice Spice,Barbie The Album,2023-06-23,1347489.498,449163166,Rap
+47,Next Thing You Know,Jordan Davis,n/a,Single,2022-08-12,619231.344,206410448,Country
+48,Escapism,RAYE,070 Shake,Escapism,2022-12-07,2292227.508,764075836,RnB
+49,Un x100to,Grupo Frontera,Bad Bunny,Single,2023-04-17,2850156.075,950052025,Pop
+50,Until I Found You,Stephen Sanchezz,n/a,Single,2021-09-01,2895636.75,965212250,Pop
+51,Shirt,SZA,n/a,SOS,2022-12-09,1305025.395,435008465,RnB
+52,Paint The Town Red,Doja Cat,n/a,Single,2023-08-04,2917722.36,972574120,Rap
+53,Made You Look,Meghan Trainor,n/a,Takin' It Back,2022-10-21,2035163.373,678387791,Pop
+54,Wait In The Truck,HARDY,Lainey Wilson,Single,2022-08-26,354732.879,118244293,Country
+55,All I Want For Christmas Is You,Mariah Carey,n/a,Merry Christmas,1994-10-28,5418782.346,1806260782,Holiday
+56,Everything I Love,Morgan Wallen,n/a,One Thing At A Time,2023-03-03,474140.724,158046908,Country
+57,Chemical,Post Malone,n/a,Single,2023-04-14,1389885.399,463295133,Pop
+58,Heart Like A Truck,Lainey Wilson,n/a,Bell Bottom Country,2022-11-28,434160.117,144720039,Pop
+59,"Going, Going, Gone",Luke Combs,n/a,Growin' Up,2022-06-24,525762.495,175254165,Country
+60,Rockin' Around The Christmas Tree,Brenda Lee,n/a,Merry Christmas From Brenda Lee,1964-10-19,3030895.662,1010298554,Holiday
+61,Dancin' In The Country,Tyler Hubbard,n/a,Dancin' In The Country,2022-08-19,386429.385,128809795,Country
+62,Daylight,David Kushner,n/a,Single,2023-04-14,3087082.059,1029027353,Pop
+63,Lift Me Up,Rihanna,n/a,Single,2022-10-28,1100351.562,366783854,RnB
+64,Eyes Closed,Ed Sheeran,n/a,- (Deluxe),2023-05-05,1056995.439,352331813,Pop
+65,TQG,Karol G,Shakira,Manana Sera Bonito ,2023-02-24,2902917.513,967639171,Reggaeton
+66,Try That In A Small Town,Jason Aldean,n/a,Highway Desperado,2023-11-03,179812.752,59937584,Country
+67,Tennessee Orange,Megan Moroney,n/a,Single,2022-09-02,605507.073,201835691,Country
+68,Jingle Bell Rock,Bobby Helms,n/a,Single,1957-12-02,2888839.707,962946569,Holiday
+69,Princess Diana,Ice Spice,Nicki Minaj,Single,2023-04-14,625207.485,208402495,Rap
+70,Tomorrow 2,Glorilla,Cardi B,"Anyways, Life's Great...",2022-11-11,450009.828,150003276,Rap
+71,A Holly Jolly Christmas,Burl Ives,n/a,Have A Holly Jolly Christmas,1965-10-01,1353901.626,451300542,Holiday
+72,Where She Goes,Bad Bunny,n/a,Single,2023-05-18,2055349.833,685116611,Reggaeton
+73,Bebe Dame,Fuerza Regida,Grupo Frontera,Single,2022-12-16,1610359.362,536786454,Reggaeton
+74,I Remember Everything,Zach Bryan,Kacey Musgraves,Zach Bryan,2023-08-25,1516705.806,505568602,Country
+75,I Like You (A Happier Song),Post Malone,Doja Cat,Twelve Carat Toothache,2022-06-03,2389442.811,796480937,Pop
+76,What It Is (Block Boy),Doechii,Kodak Black,Single,2023-03-17,291068.001,97022667,RnB
+77,Nobody Gets Me,SZA,n/a,SOS,2022-12-09,1401532.563,467177527,RnB
+78,Rich Men North Of Richmond,Oliver Anthony Music,n/a,Single,2023-08-11,556658.826,185552942,Country
+79,Super Freaky Girl,Nicki Minaj,n/a,Single,2022-08-12,1599809.742,533269914,Rap
+80,Dial Drunk,Noah Kahan,Post Malone,Single,2023-07-18,667029.495,222343165,Country
+81,What Was I Made For?,Billie Eilish,n/a,Single,2023-07-13,2345304.333,781768111,Indie
+82,Seven,Jung Kook,Latto,Single,2023-07-14,4597514.256,1532504752,K-Pop
+83,Wait For U,Future,Drake & Tems,I NEVER LIKED YOU,2022-04-29,2232132.825,744044275,Rap
+84,Last Christmas,Wham!,n/a,Single,1984-11-29,4494013.005,1498004335,Holiday
+85,Handle On You,Parker McCollum,n/a,Single,2022-08-05,286554.456,95518152,Country
+86,Por Las Noches,Peso Pluma,n/a,Single,2021-06-11,1568572.632,522857544,Reggaeton
+87,Memory Lane,Old Dominion,n/a,Single,2023-01-05,313349.985,104449995,Country
+88,Area Codes,Kaliii,n/a,Single,2023-03-17,644602.974,214867658,Rap
+89,Bury Me In Georgia,Kane Brown,n/a,Different Man,2022-09-09,58058.598,19352866,Pop
+90,PRC,Peso Pluma,Natanael Cano,Single,2023-01-23,1922537.025,640845675,Reggaeton
+91,What My World Spins Around,Jordan Davis,n/a,Single,2022-05-27,612839.097,204279699,Country
+92,Ain't That Some,Morgan Wallen,n/a,One Thing At A Time,2023-03-03,542253.414,180751132,Country
+93,Wild As Her,Corey Kent,n/a,Single,2022-03-04,504662.778,168220926,Country
+94,Peaches & Eggplants,Young Nudy,21 Savage,Single,2023-02-27,436444.314,145481438,Rap
+95,I Wrote The Book,Morgan Wallen,n/a,One Thing At A Time,2023-03-03,386734.167,128911389,Country
+96,"Bzrp Music Sessions, Vol. 53",Bizarrap,Shakira,Single,2023-01-11,2753679.543,917893181,Pop
+97,Meltdown,Travis Scott,Drake,Utopia,2023-07-28,954505.689,318168563,Rap
+98,Put It On Da Floor Again,Latto,Cardi B,Single,2023-06-02,167420.373,55806791,Rap
+99,Bloody Mary,Lady Gaga,n/a,Born This Way,2011-01-01,1476892.041,492297347,Pop
+100,Watermelon Moonshine,Lainey Wilson,n/a,Bell Bottom Country,2022-11-28,341710.617,113903539,Country

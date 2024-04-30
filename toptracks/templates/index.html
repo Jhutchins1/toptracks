@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+
+<h1 class="typing">Top Tracks</h1>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-10 col-lg-8 mx-lg-auto mx-md-auto">
+
+      <h1 class="pt-5 pb-2 typing">WELCOME TO THE TOPTRACKS DATABASE</h1>
+
+      <p class="lead"> This database contains the top 100 songs of 2023. Click on your favorite genre to discover where your favorite songs of the year fall on Billboards top chart. </p>
+
+      <p><a href="{{ url_for('pop') }}">Pop</a></p>
+      <p><a href="{{ url_for('country') }}">Country</a></p>
+      <p><a href="{{ url_for('rnb') }}">RnB</a></p>
+      <p><a href="{{ url_for('indie') }}">Indie</a></p>
+      <p><a href="{{ url_for('rap') }}">Rap</a></p>
+      <p><a href="{{ url_for('holiday') }}">Holiday</a></p>
+      <p><a href="{{ url_for('reggaeton') }}">Reggaeton</a></p>
+      <p><a href="{{ url_for('kpop') }}">K-Pop</a></p>
+      <p><a href="{{ url_for('afrobeats') }}">Afrobeats</a></p>
+
+      <p class=""lead"> The inspiration behind creating the "TopTracks" database project stemmed from a passion for music and a curiosity about the factors that contribute to a song's success. This project offers an interactive platform to explore and analyze the Billboard Top 100 songs of 2023, providing insights into the music that shaped the year.The Billboard Top 100 is a significant indicator in the music industry, reflecting not only popular taste but also trends in music consumption. </p>
+
+      <p class="lead">The database is built from data acquired by Billboard, who bases their data on tracking performed by Luminate. <a href="https://www.billboard.com/charts/year-end/hot-100-songs/" class="chart-link">Here is the Billboard website for more information</a></p>
+
+    </div>
+  </div>
+</div>
+
+{% endblock %}

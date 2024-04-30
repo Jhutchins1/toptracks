@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap" rel="stylesheet">
+
+  <title>
+
+  {% block title %}
+  {% endblock %}
+  </title>
+  
+  <style>
+    body { background: #e8f1f9; }
+  </style>
+</head>
+<body>
+
+{% block content %}
+{% endblock %}
+
+{% block footer %}
+<footer class="site-footer">
+    <div class="container">
+        <span>© 2024 by Reese Hutchins</span>
+        <a href="https://github.com/yourusername/your-repo-name" target="_blank">GitHub Repo</a>
+    </div>
+</footer>
+{% endblock %}
+
+</body>
+</html>
+

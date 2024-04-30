@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container">
+  <div class="track-detail-box">
+    <h2>{{ track.name }}</h2>
+    <p><strong>Artist:</strong> {{ track.artist }}</p>
+    <p><strong>Featuring:</strong> {{ track.featuring }}</p>
+    <p><strong>Album:</strong> {{ track.album_name }}</p>
+    <p><strong>Release Date:</strong> {{ track.release_date }}</p>
+    <p><strong>Streaming Revenue on Spotify:</strong> ${{ '{:,.2f}'.format(track.streaming_revenue_spotify) }}</p>
+    <p><strong>All-time Spotify Streams:</strong> {{ '{:,}'.format(track.alltime_spotify_streams) }}</p>
+    
+<p class="back-link"><a href="{{ url_for('genre', genre_name=track.genre) }}">← Back to {{ track.genre }}</a></p>
+
+  </div>
+</div>
+{% endblock %}
